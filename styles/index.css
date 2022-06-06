@@ -1,0 +1,43 @@
+#navbar
+{
+    display:flex;
+    flex-direction: row;
+    background-color: aqua;
+    align-items: center;;
+    justify-content: space-between;
+    padding:10px;
+   
+}
+a
+{
+    padding:0px;
+    text-decoration: none;
+    color:black;
+}
+h3
+{
+    padding:0px;
+    margin: 0px;
+}
+form
+{
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    width:25%;
+    padding:20px;
+    border:1px solid gray;
+    margin-top:30px;
+    margin:auto;
+   
+}
+input
+{
+    padding:5px;
+}
+label
+{
+    font-size: 20px;;
+    text-align: center;
+}
